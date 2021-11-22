@@ -16,8 +16,8 @@ app.use(bodyParser.json())
 const pool = mysql.createPool ({
     connectionLimit : 10,
     host : 'localhost',
-    user: 'root',    // HOX HOX vaati ehkä oman USER ja PASSWORD tunnuksen
-    password: 'password',
+    user: 'Tänne käyttäjä nimi',    // HOX HOX vaati  oman USER ja PASSWORD tunnuksen
+    password: 'Tänne salasana',
     database: 'databaseravintola'
 })
 
