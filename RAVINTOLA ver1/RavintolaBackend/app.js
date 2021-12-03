@@ -52,7 +52,7 @@ app.use(session({
   resave: "false",
   saveUninitialized: "false",
   cookie: {
-    expires: 10000
+    expires: 10000              // TÄSÄ ON KEKSIN TOIMINTA AIKA NYT LAITETTU 10 sekunttia) TOIMII MUUTEN MUTTA FRONTEND EI JOSTAKIN SYYSTÄ HYVÄKSY useEFFECTIA
   }
 })
 )
