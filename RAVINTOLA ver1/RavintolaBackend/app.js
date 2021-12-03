@@ -48,7 +48,7 @@ app.use(cookieParser())
   
 app.use(session({
   key: "IdOfUser",
-  secret: "salaisuus",
+  secret: "", TÄSSÄ ON SALAISUUS JOTTA SESSIOTA VOI KÄYTTÄÄ(sessio ei vielä tässä versiossa toimi)
   resave: "false",
   saveUninitialized: "false",
   cookie: {
@@ -62,8 +62,8 @@ app.use(session({
 const pool = mysql.createPool ({
     connectionLimit : 10,
     host : 'localhost',
-    user: 'root',    // HOX HOX vaati ehkä oman USER ja PASSWORD tunnuksen
-    password: 'password',
+    user: '',    // HOX HOX OMAN DATABSE TAI MYSQL WORKBENCHIN LOGIN SALASANA JA KÄYTTÄJÄ
+    password: '', //// SALANA
     database: 'databaseravintola'
 })
 
