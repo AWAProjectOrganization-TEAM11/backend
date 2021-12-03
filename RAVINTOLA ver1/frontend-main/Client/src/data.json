@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Ravintola 1",
+      "type": "Burgeri",
+      "image": "Hampurilainen.jpg"
+      
+    },
+    {
+      "id": 2,
+      "name": "Ravintola 2",
+      "type": "Pizza",
+      "image": "Pizza.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ravintola 3",
+      "type": "Salaatti",
+      "image": "Salaatti.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ravintola 4",
+      "type": "Grilli",
+      "image": "Makkaraperunat.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Ravintola 5",
+      "type": "Pirtelö",
+      "image": "Pirtelo.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ravintola 6",
+      "type": "Kahvila",
+      "image": "Kahvi.jpg"
+    }
+  ]
+}

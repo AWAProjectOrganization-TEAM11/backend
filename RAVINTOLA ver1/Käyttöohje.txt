@@ -1,0 +1,26 @@
+
+
+Terve!
+
+
+Ohjelma sisältää keskeneräiset versiot backend/frontend puolilta.
+Tässä mallissa sisään/ulos kirjautuminen, käyttäjän luominen ja ravintola datan tuominen backendistä frontendiin toimii.
+
+Ohjelma sisältää useita paketteja, joten "npm install" komennolla voi mennä hetki ladata. 
+
+Toisekseen frontend puoli on kahden kansion sisällä joten frontendmain kansiosta täytyy siirtyä Client kansioon, että ohjelmaa voidaan käyttäää.
+
+1. lataa projekti
+
+2. laita haluamaan kansioon
+
+3. NPM INSTALL                
+
+( Tämä tehdään erikseen Client kansion terminaalissa ja RavintolaBackend kansion terminaalissa)
+
+4. Ohjelman toimii porteilla 
+
+-Backend portilla localhost:/5000
+frontend portilla localhost:/3000
+
+5. BACKEND EI TOIMI ILMAN TIETOKANTAA, MUTTA OHJELMASSA ON JSON FILEJÄ JOITA VOI TESTATA

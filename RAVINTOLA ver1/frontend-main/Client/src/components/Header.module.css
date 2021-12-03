@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 70px;
+    font-size: 35px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+
+}
+
+
+.ostoskori{
+    font-size: 25px;
+    color: white;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+
+
+}
+
+.uloskirjaus{
+    font-size: 20px;
+    color: rgb(7, 6, 6);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+
+}
+.logo{
+    font-size: 35px;
+    color: white;
+        align-items: center;
+    margin-left: 30px;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+
+}
+
+
+.kayttaja{
+    font-size: 25px;
+    color: whitesmoke;
+    align-items: right;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+    
+}
