@@ -1,0 +1,45 @@
+
+.maincontainer {
+  display: flex;
+  width: 600px ;
+  font-size: 18px;
+  height: auto;
+  margin-right: 10px;
+  margin-left: 0px;
+  color: white;
+  background-color: antiquewhite;
+  border-top: 10px solid white;
+}
+.description{
+  color: black;;
+  font-size: 20px;
+  font-family: Comic Sans MS;
+  margin-left: 30px;
+}
+
+.tuote{
+  color: black;
+  margin-left: 30px;
+  font-size: 30px;
+  margin-bottom: 25px;
+  font-family: Comic Sans MS;
+  
+  
+}
+
+.price{
+  color: red;
+  font-size: 30px;
+  margin-bottom: 25px;
+  text-align: right;
+  margin-left: 30px;
+  font-family: Comic Sans MS;
+}
+
+
+
+
+
+
+
+

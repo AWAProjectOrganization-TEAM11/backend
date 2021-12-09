@@ -1,0 +1,37 @@
+
+.maincontainer {
+  display: flex;
+  width: 900px ;
+  font-size: 18px;
+  height: auto;
+  margin-right: 10px;
+  margin-left: 0px;
+  color: white;
+  background-color: antiquewhite;
+  border-top: 3px solid white;
+}
+
+.topic{
+  color: black;
+  margin-left: 330px;
+  font-size: 30px;
+  margin-bottom: 25px;
+  font-family: Comic Sans MS;
+  
+}
+
+.body{
+  color: black;
+  font-size: 25px;
+  margin-bottom: 25px;
+  margin-left: 30px;
+  font-family: Comic Sans MS;
+}
+
+
+
+
+
+
+
+
