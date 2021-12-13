@@ -1,0 +1,46 @@
+
+.sidecontainer {
+    display: flex;
+    width: auto;
+    margin-left: auto;
+    margin-right: 0px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: antiquewhite;
+    height: 300px;
+    border-top:10px solid white;
+    width: 290px ;
+}
+
+.topic{
+    font-size: 20px;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Comic Sans MS;
+
+}
+
+.body{
+    font-size: 18px;
+    color: black;
+    margin-left: 5px;
+    margin-right: auto;
+}
+
+
+.teksti {
+    font-size: 15px;
+    color: black;
+    margin-left: 40px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+.luetuimmat {
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+
