@@ -69,9 +69,9 @@ app.use(session({
 //
 const pool = mysql.createPool ({
     connectionLimit : 10,
-    host : 'localhost',
-    user: 'root',    // HOX HOX vaati ehkä oman USER ja PASSWORD tunnuksen
-    password: 'password',
+    host : '',
+    user: '',    // HOX HOX vaati ehkä oman USER ja PASSWORD tunnuksen
+    password: '',
     database: 'databaseravintola'
 })
 
