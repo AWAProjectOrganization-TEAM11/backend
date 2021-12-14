@@ -1,0 +1,82 @@
+
+
+.container
+{
+  display: flex;
+  align-items: center;
+  max-width: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+
+}
+
+.name
+{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  align-items: center;
+  margin-bottom: auto;
+  margin-right: auto;
+  font-family: Comic Sans MS;
+}
+
+.type{
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  align-items: center;
+  margin-bottom: auto;
+  margin-right: auto;
+  font-family: Comic Sans MS;
+}
+
+.author
+{
+  color: black;
+  font-size: 25px;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+.product
+{
+  width: 33.33%;
+  box-sizing: border-box;
+  padding: 30px;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+
+
+
+
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  max-width: 900px;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+input[type=radio] {
+  display: none;
+}
+
+.image{
+  height: 100px;
+  width: 150px;
+  margin-top: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  align-items: center;
+  max-width: 900px;
+}
+
+
+
