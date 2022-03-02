@@ -52,8 +52,8 @@ app.use(cookieParser())
   app.use(bodyParser.urlencoded({extends: true}))
   
 app.use(session({
-  key: "IdOfUser",
-  secret: "salaisuus",
+  key: "Laita oma key",
+  secret: "Laita oma salaisuus",
   resave: "false",
   saveUninitialized: "false",
   cookie: {
